@@ -1,0 +1,417 @@
+﻿<?xml version="1.0"?>
+<Products>
+	<Product>
+		<id>1</id>
+		<image>img/conquay/0b45c90-d195-4ce1-b2a4-eed89ac526ed_1.73856e0d0ce6fb3d490148a5171dc5ce_07a46dbd803345a7b988f8dd95bbdd46_large.jpeg</image>
+		<ten>Con quay Beyblade Burst Ragna</ten>
+		<hang>Beyblade Burst</hang>
+		<gia>349000</gia>
+		<loai>Con quay</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>2</id>
+		<image>img/conquay/1_6eb9a25a46e74f18a1c1de8789b9cf2f_6b6f7f8c0f4a4473bb84513c80c36865_large.jpg</image>
+		<ten>Con quay Beyblade Kayser Kerbeus</ten>
+		<hang>Beyblade Burst</hang>
+		<gia>349000</gia>
+		<loai>Con quay</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>3</id>
+		<image>img/conquay/51pgfo7vwjl._a_030935e965834328b7573e56d3cd1cfe_large.jpg</image>
+		<ten>Con Quay Beyblade Kerberos</ten>
+		<hang>Beyblade Burst</hang>
+		<gia>349000</gia>
+		<loai>Con quay</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>4</id>
+		<image>img/conquay/tm-119357a_61c8742fceea4a9d8c2879051574f943_large.jpg</image>
+		<ten>Con quay Beyblade Twin Nemesis</ten>
+		<hang>Beyblade Burst</hang>
+		<gia>349000</gia>
+		<loai>Con quay</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>5</id>
+		<image>img/conquay/tm-833338_54f670bbd821429abf24a3781ae08e38_large.jpg</image>
+		<ten>Sàn Đấu Beyblade</ten>
+		<hang>Beyblade Burst</hang>
+		<gia>449000</gia>
+		<loai>Con quay</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>7</id>
+		<image>img/pokemon/tm-968443_c53920bf3ccf4e31960fa23985251863_cc129179eda8419ab8315bc620083980_large.jpg</image>
+		<ten>Pikachu</ten>
+		<hang>Pokemon</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>8</id>
+		<image>img/pokemon/tm-968498_f39ad835839a4a449ec9b51b5454d431_395874271d5e470ba7030d6bcbc6d7da_large.jpg</image>
+		<ten>Bulbasaur</ten>
+		<hang>Pokemon</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>9</id>
+		<image>img/pokemon/tm-968511_48626693edc3423da0d18c9cb4aa47b2_01451d2ffd474e6f9439937384aaa62c_large.jpg</image>
+		<ten>Charmander</ten>
+		<hang>Pokemon</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>10</id>
+		<image>img/pokemon/tm-968528_7d251915357a456c9e9d3ad619b89e4a_da4310e0b13a4c49be3f59f44413b058_large.jpg</image>
+		<ten>Squirtle</ten>
+		<hang>Pokemon</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>11</id>
+		<image>img/pokemon/d9c2d78101fc4958b04d28a03de6a7bf_0c6972cf21734ec895ebc7f60a175945_large.jpeg</image>
+		<ten>Chiến Binh Rồng 2 Đầu Bóng Tối</ten>
+		<hang>Bakugan</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>12</id>
+		<image>img/pokemon/124825-2_8aa61707677948598fa44f9b017deaae_large.jpg</image>
+		<ten>Chiến Binh Sư Tử Hydorous Blue</ten>
+		<hang>Bakugan</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>13</id>
+		<image>img/pokemon/144939_-_2_a5aa416110b842bd831c68b507b5e14f_large.jpg</image>
+		<ten>Chiến Binh Rồng Dragonoid Maximus</ten>
+		<hang>Bakugan</hang>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>14</id>
+		<image>img/pokemon/4904810123958_003_4e55ba4e96174936b3ff2d416f7e6bed_large.jpg</image>
+		<hang>Bakugan</hang>
+		<ten>Chiến Binh Rồng Lửa Dragonoid Red</ten>
+		<gia>99000</gia>
+		<loai>Đồ chơi theo phim hoạt hình</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>15</id>
+		<image>img/oto/xe3.jpg</image>
+		<ten>Siêu xe lamborghini</ten>
+		<hang>Tamica</hang>
+		<gia>99000</gia>
+		<loai>Ô tô</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>16</id>
+		<image>img/oto/xe2.jpg</image>
+		<ten>Siêu xe NSX</ten>
+		<hang>Tamica</hang>
+		<gia>99000</gia>
+		<loai>Ô tô</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>17</id>
+		<image>img/oto/xe1.jpg</image>
+		<ten>Xe cổ Porsche</ten>
+		<hang>Tamica</hang>
+		<gia>99000</gia>
+		<loai>Ô tô</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>18</id>
+		<image>img/oto/xe6.jpg</image>
+		<ten>Xe đua Nissan GT-R</ten>
+		<hang>Tamica</hang>
+		<gia>99000</gia>
+		<loai>Ô tô</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>19</id>
+		<image>img/nha/nha1.jpg</image>
+		<ten>Nhà trên cây</ten>
+		<hang>Sylvanian Families Village</hang>
+		<gia>990000</gia>
+		<loai>Nhà thỏ</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>20</id>
+		<image>img/nha/nha3.jpg</image>
+		<ten>Nhà tháp mái</ten>
+		<hang>Sylvanian Families Village</hang>
+		<gia>1090000</gia>
+		<loai>Nhà thỏ</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>21</id>
+		<image>img/nha/nha4.jpg</image>
+		<ten>Nhà đông quê</ten>
+		<hang>Sylvanian Families Village</hang>
+		<gia>1090000</gia>
+		<loai>Nhà thỏ</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>22</id>
+		<image>img/dochoi/unnamed_f10222317bb9466194e37a6312d3a61b_large.jpg</image>
+		<ten>Bộ đồ làm kẹo bông</ten>
+		<hang>Harp</hang>
+		<gia>390000</gia>
+		<loai>Đồ chơi</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>23</id>
+		<image>img/dochoi/7853bd887f2e479f7b654f806049e13c_503fff8ab74941038ece576f4dd5eb6f_large.jpg</image>
+		<ten>Bộ đồ làm kẹo dẻo</ten>
+		<hang>Harp</hang>
+		<gia>390000</gia>
+		<loai>Đồ chơi</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>24</id>
+		<image>img/dochoi/bx1955_dp_b_hs_41dea53c7f65455fb9a534dda9d86bb1_d178221f20f94f9381dbe698d3e0eb8a_large.jpg</image>
+		<ten>Bộ Bowling</ten>
+		<hang>Btoys</hang>
+		<gia>290000</gia>
+		<loai>Đồ chơi</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>25</id>
+		<image>img/dochoi/ludo_genghis_3_1ef36b019cf7450ba953a5c5a0a4a247_large.jpg</image>
+		<ten>Bộ cờ cá ngựa</ten>
+		<hang>Btoys</hang>
+		<gia>290000</gia>
+		<loai>Board game</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>26</id>
+		<image>img/smartgame/iqarrows.jpg</image>
+		<ten>Thử thách IQ Arrows</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>27</id>
+		<image>img/smartgame/iqblox.jpg</image>
+		<ten>Thử thách IQ Bloxs</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>28</id>
+		<image>img/smartgame/iqxoxo.jpg</image>
+		<ten>Thử thách IQ XOXO</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>29</id>
+		<image>img/smartgame/iqtwist.jpg</image>
+		<ten>Thử thách IQ Twist</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>30</id>
+		<image>img/smartgame/iqlink.jpg</image>
+		<ten>Thử thách IQ Link</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>31</id>
+		<image>img/smartgame/iqfocus.jpg</image>
+		<ten>Thử thách IQ Focust</ten>
+		<hang>Smartgames</hang>
+		<gia>450000</gia>
+		<loai>Trí tuệ</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>33</id>
+		<image>img/lego/lego2.jpg</image>
+		<ten>Bộ gạch classic</ten>
+		<hang>Lego</hang>
+		<gia>450000</gia>
+		<loai>Lắp ghép</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>34</id>
+		<image>img/lego/lego4.jpg</image>
+		<ten>Bộ lắp ráp công trường</ten>
+		<hang>Lego</hang>
+		<gia>450000</gia>
+		<loai>Lắp ghép</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>35</id>
+		<image>img/lego/lego5.jpg</image>
+		<ten>Biệt thự gia đình Andrea</ten>
+		<hang>Lego</hang>
+		<gia>450000</gia>
+		<loai>Lắp ghép</loai>
+		<gioitinh>gai</gioitinh>
+	</Product>
+	<Product>
+		<id>36</id>
+		<image>img/thegioidongvat/1_304ccd70b7ff4f8699a8d718eb136e2a_18910457112e4541a17b1344daba8de2_large.jpg</image>
+		<ten>Gấu Băc Cực</ten>
+		<hang>Ania</hang>
+		<gia>99000</gia>
+		<loai>Thế giới động vật</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>37</id>
+		<image>img/thegioidongvat/1_4582f5d3b04547ecae394350ecaaf952_323eec7bd4ce475a98b265ca5ae63063_large.jpg</image>
+		<ten>Hổ răng kiếm người tiền sử</ten>
+		<hang>Ania</hang>
+		<gia>99000</gia>
+		<loai>Thế giới động vật</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>38</id>
+		<image>img/thegioidongvat/o1cn01c9mnvr1oc9llfjhl1___2206155725188.jpg_540x540q50s50_784d2531073540958a2fb356a87aeb53_large.jpg</image>
+		<ten>Công viên khủng long</ten>
+		<hang>Ania</hang>
+		<gia>99000</gia>
+		<loai>Thế giới động vật</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>39</id>
+		<image>img/thegioidongvat/tm-822486-1_9194baaaa4ee47e68261661bfba17361_large.jpg</image>
+		<ten>Chim cánh cụt</ten>
+		<hang>Ania</hang>
+		<gia>99000</gia>
+		<loai>Thế giới động vật</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>40</id>
+		<image>img/dochoi/e7033_1.png</image>
+		<ten>MONOPOLY SPEED - Đường Đua Tốc Độ</ten>
+		<hang>MONOPOLY</hang>
+		<gia>799000</gia>
+		<loai>Board game</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>41</id>
+		<image>img/dochoi/E0751_1.jpg</image>
+		<ten>MONOPOLY PAY DAY - Ngày cuối tháng thần thánh</ten>
+		<hang>MONOPOLY</hang>
+		<gia>799000</gia>
+		<loai>Board game</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>42</id>
+		<image>img/dochoi/E1871_1.jpg</image>
+		<ten>Cờ tỷ phú Cheaters Edition</ten>
+		<hang>MONOPOLY</hang>
+		<gia>799000</gia>
+		<loai>Board game</loai>
+		<gioitinh>trai gai</gioitinh>
+	</Product>
+	<Product>
+		<id>43</id>
+		<image>img/sieunhan/6058529_5.png</image>
+		<ten>Người Dơi Batman 4 inch và vũ khí trợ lực bí mật</ten>
+		<hang>BATMAN</hang>
+		<gia>259000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>44</id>
+		<image>img/sieunhan/6060779_2.jpg</image>
+		<ten>Người Dơi Batman 4 inch và giáp robot</ten>
+		<hang>BATMAN</hang>
+		<gia>429000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>45</id>
+		<image>img/sieunhan/778988244159_20125466_6_inch_figures_battle_armor_batman_s2_v2_m02_gml_front_pkg.png</image>
+		<ten>Người Dơi Batman 6 inch</ten>
+		<hang>BATMAN</hang>
+		<gia>109000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>46</id>
+		<image>img/sieunhan/e7372as00_630509878154_main_19_large_300dpi.jpg</image>
+		<ten>Móng vuốt chiến đấu huyền thoại Black Panther</ten>
+		<hang>AVENGERS</hang>
+		<gia>699000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>47</id>
+		<image>img/sieunhan/e7375_2.jpg</image>
+		<ten>Thần công chiến đấu huyền thoại Iron Man</ten>
+		<hang>AVENGERS</hang>
+		<gia>699000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+	<Product>
+		<id>48</id>
+		<image>img/sieunhan/e7376_2.jpg</image>
+		<ten>Khiên chiến đấu huyền thoại Captain Ameria</ten>
+		<hang>AVENGERS</hang>
+		<gia>699000</gia>
+		<loai>Siêu nhân</loai>
+		<gioitinh>trai</gioitinh>
+	</Product>
+</Products>
